@@ -12,7 +12,7 @@ Decentralized hosting using SkyNet for KyberSwap. Implemented for Hackathon.
 #### Tasks Description
 
 - Create or fork a DeFi tool and host the front-end on Skynet - Done
-- Use the Deploy to Skynet Github action for building and - Done
+- Use the Deploy to Skynet Github action for building and - Done in https://github.com/canat/KyberSwap/blob/master/.github/workflows/deploy.yaml
 - Deploying your frontend automatically - Done
 - adding a working "Save to Homescreen" link in the Github repo - Done 
 - Using an ENS or HNS decentralized domain name for the web app  - Done
