@@ -6,6 +6,19 @@
 # Skylink
 sia://OABgDltr1xcCKZJHG4Wwo86GFa_LPbmJjPVvLQRZwDHZ4w
 
+# Open DeFi Hackathon: Host Your Hack's Front-End On Skynet
+Decentralized hosting using SkyNet for KyberSwap. Implemented for Hackathon.
+
+#### Tasks Description
+
+- Create or fork a DeFi tool and host the front-end on Skynet - Done
+- Use the Deploy to Skynet Github action for building and - Done
+- Deploying your frontend automatically - Done
+- adding a working "Save to Homescreen" link in the Github repo - Done 
+- Using an ENS or HNS decentralized domain name for the web app  - Done
+
+View via HNS https://0000aaf.hns.siasky.net/ 
+
 # KyberSwap: Instantly Convert Your Tokens
 
 KyberSwap allows users to directly interact with Kyber's decentralized liquidity network and instantly swap/ trade their tokens. Check our website at https://kyberswap.com
